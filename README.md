@@ -393,16 +393,6 @@ print(seq)
     None
 
 
----
-
-# Detailed guide
-
-
-```python
-from refci import Pattern, make_test_data, make_test_pattern
-```
-
-
 ## More explanations
 
 

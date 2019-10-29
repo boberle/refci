@@ -25,12 +25,14 @@ Then you can search patterns:
 
 - a noun: `[pos="noun"]`
 - a noun with more than 3 characters: `[pos="noun" length>3]`
-- a noun beginning with a `c`: ``[pos="noun" form=/c.*/]`
+- a noun beginning with a `c`: `[pos="noun" form=/c.*/]`
 - a noun with a determiner before it: `[pos="determiner"][pos="noun"]`
 - a noun phrase with a determiner, then 0, 1 or more adjectives, then a noun: `[pos="determiner"][pos="adjective"]*[pos="noun"]`
 - and much, much more...
 
-To use it, just download the `refci.py` module and import the `Pattern` class.  Please see the **quick start** tour in the [`user_guide.html`](user_guide.html) for more information, and the [`user_guide.ipynb`](user_guide.ipynb) to start to play with.
+See the **quick start** tour in the [`guide.html`](guide.html) for more examples!
+
+To use it, just download the `refci.py` module and import the `Pattern` class.  Please see the **quick start** tour in the [`guide.html`](guide.html) for more information, and the [`guide.ipynb`](guide.ipynb) to start to play with.
 
 
 Distributed under the terms of the Mozilla Public License 2.0, see the `LICENSE` file.

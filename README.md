@@ -396,9 +396,9 @@ print(seq)
 ## More explanations
 
 
-See the [`guide.html`](https://htmlpreview.github.io/?https://github.com/boberle/refci/blob/master/guide.html) file for more examples!
+See the [`docs/guide.html`](https://htmlpreview.github.io/?https://github.com/boberle/refci/blob/master/docs/guide.html) file for more examples!
 
-See the [`guide.ipynb`](guide.ipynb) file to start to play with.
+See the [`docs/guide.ipynb`](docs/guide.ipynb) file to start to play with.
 
 
 ## Licence
